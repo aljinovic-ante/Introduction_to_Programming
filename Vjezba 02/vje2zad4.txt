@@ -1,0 +1,4 @@
+runfile('D:/Miran Relic/Moji dokumenti/vj2zad4.py', wdir='D:/Miran Relic/Moji dokumenti')
+
+Unesite broj13
+Negativna vrijednost je  -13

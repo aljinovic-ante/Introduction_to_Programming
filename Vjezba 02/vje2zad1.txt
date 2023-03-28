@@ -1,0 +1,11 @@
+print('Hello world')
+Hello world
+
+print("Hello world")
+Hello world
+
+print(Hello world) #nije u redu
+  File "<ipython-input-3-47a48b4ec168>", line 1
+    print(Hello world) #nije u redu
+                    ^
+SyntaxError: invalid syntax
